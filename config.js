@@ -9,7 +9,7 @@
   Do NOT put your CMS admin token or GitHub token in this public website file.
 */
 window.LUXE_WEBSITE_CONFIG = {
-  CMS_API_BASE: 'https://stupendous-stardust-61b005.netlify.app/cms/',
+  CMS_API_BASE: 'https://stupendous-stardust-61b005.netlify.app/api',
   SITE_NAME: 'SHREE',
   WHATSAPP_NUMBER: '9779868857011',
   INSTAGRAM_URL: '',
