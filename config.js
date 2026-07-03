@@ -9,9 +9,9 @@
   Do NOT put your CMS admin token or GitHub token in this public website file.
 */
 window.LUXE_WEBSITE_CONFIG = {
-  CMS_API_BASE: 'https://your-cms-site.netlify.app/api',
+  CMS_API_BASE: 'https://aitwalanuj.github.io/SHREE1/',
   SITE_NAME: 'SHREE',
-  WHATSAPP_NUMBER: '9779868800001',
+  WHATSAPP_NUMBER: '9779868857011',
   INSTAGRAM_URL: '',
   DEFAULT_MESSAGE: 'Hello, I want to inquire about your boutique products.'
 };
