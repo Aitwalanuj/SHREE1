@@ -12,6 +12,6 @@ window.LUXE_WEBSITE_CONFIG = {
   CMS_API_BASE: 'https://stupendous-stardust-61b005.netlify.app/api',
   SITE_NAME: 'SHREE',
   WHATSAPP_NUMBER: '9779868857011',
-  INSTAGRAM_URL: '',
+  INSTAGRAM_URL: 'anujaitwal',
   DEFAULT_MESSAGE: 'Hello, I want to inquire about your boutique products.'
 };
